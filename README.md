@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Money-Bhardwaj
 - 👀 I’m interested in Software Developement , AI , ML , IOT , Automation
-- 🌱 I’m currently pursuing B.Tech in ECE from NIT KURUKSHETRA
-- 💼 I'm currently working as DAQ Engineer at SAE NIT KURUKSHETRA 
+- 🌱 I have completed my B.Tech in ECE from NIT KURUKSHETRA
+- 💼 I'm currently working as Associate Software Engineer at Tech Mahindra 
 - 📫 How to reach me : At any time of convenience mail : moneybhardwaj23@gmail.com
 
 <!---
